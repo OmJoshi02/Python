@@ -3,7 +3,7 @@ try:
     res = 100 / num
 
 except ZeroDivisionError:
-    print("Error occured")
+    print("Error occurred")
 
 else:
     print("Result : ",res)
